@@ -1,0 +1,45 @@
+body{
+    background-color: burlywood;
+}
+.heading1{
+    color: white;
+    text-shadow: 4px;
+    background-color: black;
+    width: 14%;
+}
+
+#clear{
+    width: 250px;
+}
+
+
+.formstyle{
+    width: 250px;
+    height: 500px;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.ans{
+    width: 246px;
+    text-align: center;
+    
+}
+
+input{
+    width: 80px;
+    height: 50px;
+    border: 4px;
+    color: white;
+    background-color: green;
+    font-size: 30px;
+}
+
+#answerstyle{
+    width: 130px;
+}
+
+.btn{
+    background-color: red;
+    font-size: 20px;
+}
